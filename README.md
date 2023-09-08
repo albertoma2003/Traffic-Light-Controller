@@ -1,8 +1,0 @@
-# Traffic-Light-Controller
-C
-
-I chose to build this project to implement the perfect scenario of what should occur at 4-way intersections with pedestrian cross walks included. 4-way intersections account for 40% of the more than six million accidents that happen every year on the road in the United States. Having the opportunity to build this dangerous, but essential to a human's every day life was a project I thought would be very fun to create and learn about. 
-
-My biggest challenge in this project was incorporating the pedestrian crosswalks at the appropriate time with the right of away accounted for. A major thought that I had in my head throughout this project was to try to make this as realistic as possible. I encountered this challenge by making sure every car on any given lane and any pedestrian on any of the four crosswalks had enough time to get to their designated location and with clear and obvious warnings on when it's time to stop. I incorporated three white and red flashing lights for pedestrians to warn them that there time is coming to an end. I also made the yellow light duration a little bit longer to ensure cars where aware of the situation as well.
-
-My most significant takeaway about this project was how important it is to build a projet every once in a while that is based off a real world scenario. When I am able to connect my projects with scenarios I encounter on a daily basis it not only motivates me to finish the project, but it also helps me be more creative and curious with future projects and with other events in my life aside from programming. I was also able to really learn finite state machines and implement one with a total of 14 states and a simple timer (SysTick) that helped me incorporate fixed time-delays.
